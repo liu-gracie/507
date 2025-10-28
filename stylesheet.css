@@ -224,6 +224,11 @@ h6{
   .client-name {
     font-size: clamp(24px, 8vw, 48px);
   }
+
+  .conetnts {
+    padding-left: 20px; 
+    padding-right: 20px;
+  }
 }
 
 
